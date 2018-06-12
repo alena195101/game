@@ -1,0 +1,40 @@
+menu.png
+size: 162, 201
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+button1
+  rotate: false
+  xy: 0, 0
+  size: 146, 60
+  orig: 146, 60
+  offset: 0, 0
+  index: -1
+button2
+  rotate: false
+  xy: 0, 60
+  size: 146, 60
+  orig: 146, 60
+  offset: 0, 0
+  index: -1
+crystal
+  rotate: false
+  xy: 146, 60
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+leve1
+  rotate: false
+  xy: 0, 120
+  size: 96, 81
+  orig: 96, 81
+  offset: 0, 0
+  index: -1
+level2
+  rotate: false
+  xy: 96, 120
+  size: 53, 49
+  orig: 53, 49
+  offset: 0, 0
+  index: -1

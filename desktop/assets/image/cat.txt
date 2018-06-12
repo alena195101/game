@@ -1,0 +1,47 @@
+cat.png
+size: 247, 510
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+life
+  rotate: false
+  xy: 0, 0
+  size: 15, 13
+  orig: 15, 13
+  offset: 0, 0
+  index: -1
+step
+  rotate: false
+  xy: 15, 0
+  size: 232, 102
+  orig: 232, 102
+  offset: 0, 0
+  index: 1
+step
+  rotate: false
+  xy: 0, 102
+  size: 232, 102
+  orig: 232, 102
+  offset: 0, 0
+  index: 2
+step
+  rotate: false
+  xy: 0, 204
+  size: 232, 102
+  orig: 232, 102
+  offset: 0, 0
+  index: 3
+step
+  rotate: false
+  xy: 0, 306
+  size: 232, 102
+  orig: 232, 102
+  offset: 0, 0
+  index: 4
+step
+  rotate: false
+  xy: 0, 408
+  size: 232, 102
+  orig: 232, 102
+  offset: 0, 0
+  index: 5

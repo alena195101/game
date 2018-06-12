@@ -1,0 +1,47 @@
+step.png
+size: 1500, 121
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+step1
+  rotate: false
+  xy: 0, 0
+  size: 250, 121
+  orig: 250, 121
+  offset: 0, 0
+  index: -1
+step2
+  rotate: false
+  xy: 250, 0
+  size: 250, 121
+  orig: 250, 121
+  offset: 0, 0
+  index: -1
+step3
+  rotate: false
+  xy: 500, 0
+  size: 250, 121
+  orig: 250, 121
+  offset: 0, 0
+  index: -1
+step4
+  rotate: false
+  xy: 750, 0
+  size: 250, 121
+  orig: 250, 121
+  offset: 0, 0
+  index: -1
+step5
+  rotate: false
+  xy: 1000, 0
+  size: 250, 121
+  orig: 250, 121
+  offset: 0, 0
+  index: -1
+step6
+  rotate: false
+  xy: 1250, 0
+  size: 250, 121
+  orig: 250, 121
+  offset: 0, 0
+  index: -1
